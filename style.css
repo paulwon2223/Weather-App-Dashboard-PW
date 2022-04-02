@@ -1,0 +1,160 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    padding: 40px 10px;
+    font-family: 'Poppins', sans-serif;
+    background: url(./img/main4.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    overflow: hidden;
+    height: 100vh;
+}
+
+.current-container {
+    display: flex;
+    justify-content: space-evenly;
+    padding-bottom: 25px;
+}
+
+.current-time-container .current-time {
+    font-size: 60px;
+}
+
+.current-weather-container {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    text-align: center;
+    margin-top: 120px;
+    margin-right: 50px;
+    border: 1px solid white;
+    background: rgba(213, 213, 219, 0.6);
+    border-radius: 30px;
+    box-sizing: border-box;
+    padding: 30px 20px;
+    width: 450px;
+    height: 300px;
+}
+
+.current-weather-container .current-weather {
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+}
+
+.current-city-container {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    float: right;
+}
+
+.current-city-container .current-city {
+    font-size: 30px;
+}
+
+input[type="text"] {
+    background: none;
+    border: 1px solid black;
+    border-radius: 20px;
+    text-align: center;
+}
+
+input[type="submit"] {
+    background: none;
+    border: none;
+    cursor: pointer;
+}
+
+.d-flex {
+    padding-top: 20px;
+}
+
+.card {
+    border: 1px solid white;
+    background: rgba(129, 129, 131, 0.6);
+    border-radius: 30px;
+    height: 240px;
+    padding: 20px;
+}
+
+.card .future-weather {
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+}
+
+#futurecontstyle {
+    color: white;
+}
+
+#cont1 {
+    transition: all 0.5s ease-in-out;
+}
+
+#cont1:hover {
+    cursor: pointer;
+    transform: translateY(-25px);
+}
+
+#cont2 {
+    transition: all 0.5s ease-in-out;
+}
+
+#cont2:hover {
+    cursor: pointer;
+    transform: translateY(-25px);
+}
+
+#cont3 {
+    transition: all 0.5s ease-in-out;
+}
+
+#cont3:hover {
+    cursor: pointer;
+    transform: translateY(-25px);
+}
+
+#cont4 {
+    transition: all 0.5s ease-in-out;
+}
+
+#cont4:hover {
+    cursor: pointer;
+    transform: translateY(-25px);
+}
+
+#cont5 {
+    transition: all 0.5s ease-in-out;
+}
+
+#cont5:hover {
+    cursor: pointer;
+    transform: translateY(-25px);
+}
+
+#lists {
+    border: none;
+    background: none;
+}
+
+ul {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+}
+
+button {
+    border: 1px solid white;
+    background: rgba(213, 213, 219, 0.6);
+    border-radius: 30px;
+    padding: 5px;
+}
+
+button:hover {
+    background: rgba(106, 106, 107, 0.6);
+}
