@@ -9,5 +9,9 @@
 - Lastly, to give the users the ability to access the weather information from the previous searches, I created a local storage to store the history of the search list. 
 
 #### Additional Documents:
-- link to Github:
-- link to Git pages:
+- link to Github: https://github.com/paulwon2223/Weather-App-Dashboard-PW
+- link to Gitpages: https://paulwon2223.github.io/Weather-App-Dashboard-PW/
+- screenshots: 
+![img](./img/ss1.png)
+![img](./img/ss2.png)
+
