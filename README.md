@@ -15,4 +15,5 @@
 ![img](./img/ss1.png)
 ![img](./img/ss2.png)
 
-![movie](https://gfycat.com/glitteringessentialhummingbird)
+
+![project](https://user-images.githubusercontent.com/98055899/164955563-0da191f8-eadb-4397-bfb5-b433d7cd402e.gif)
